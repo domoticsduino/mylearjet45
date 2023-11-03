@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>MyLearjet 45</aircraft><type>Annunciators</type><uuid>009f004d-1894-4240-a97c-5ae7cded809c</uuid><author>Domoticsduino</author><description>Pannello Annunciators personalizzato per il mio Home Cockpit basato su FSX e il Learjet 45 di default
+********
+Custom Annunciators panel for my home cockpit built on top of FSX and default Learjet 45
+
+https://www.domoticsduino.cloud
+https://www.youtube.com/@DomoticsDuino</description><compatibleFSX>true</compatibleFSX><compatibleP3D>false</compatibleP3D><compatibleXPL>false</compatibleXPL><compatibleFS2>false</compatibleFS2><compatibleFS2020>false</compatibleFS2020><version>219</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>512</prefWidth><prefHeight>256</prefHeight><source>PERSONAL</source><platforms><platform>WINDOWS</platform><platform>MAC</platform><platform>LINUX</platform><platform>RASPBERRY_PI</platform><platform>ANDROID</platform><platform>IPAD</platform><platform>ESP32</platform></platforms><tiers><tier>HOME_USE_STANDARD</tier></tiers></pluginstrument>

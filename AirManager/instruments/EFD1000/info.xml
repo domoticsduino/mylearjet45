@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>MyLearjet 45</aircraft><type>Aspen EFD1000</type><uuid>621e0cf1-6b1b-443c-b7b3-8513d4d17465</uuid><author>Domoticsduino</author><description>Pannello EFD1000 personalizzato per il mio Home Cockpit basato su FSX e il Learjet 45 di default. Basato sull'originale di SimInnovations.
+Ho aggiunto la funzionalità di visualizzazione degli IDENT NAV 1/2
+
+********
+Custom EFD1000 panel for my home cockpit built on top of FSX and default Learjet 45. Based on original from SimInnovations.
+I added the IDENT NAV 1/2
+
+https://www.domoticsduino.cloud
+https://www.youtube.com/@DomoticsDuino
+
+This instrument is obviously based on the Aspen EFD 1000. But not all the real functions are implemented. There might be some bugs or things missing, especially in the navigational part, and especially with FSX/P3D, also due to the shortcomings of FSX/P3D compared to X-Plane.</description><compatibleFSX>true</compatibleFSX><compatibleP3D>false</compatibleP3D><compatibleXPL>false</compatibleXPL><compatibleFS2>false</compatibleFS2><compatibleFS2020>false</compatibleFS2020><version>113</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>800</prefWidth><prefHeight>1280</prefHeight><source>PERSONAL</source><platforms><platform>WINDOWS</platform><platform>MAC</platform><platform>LINUX</platform><platform>RASPBERRY_PI</platform><platform>ANDROID</platform><platform>IPAD</platform><platform>ESP32</platform></platforms><tiers><tier>HOME_USE_STANDARD</tier></tiers></pluginstrument>

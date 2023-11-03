@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>MyLearjet 45</aircraft><type>Temperature gauge TAT / SAT / TAS</type><uuid>715ffd9f-d028-4d6f-207e-2cd2cf004e08</uuid><author>flyatr</author><description>Shows temperature TAT (TOTAL AIR TEMPERATURE) in °C
+
+and SAT (STANDARD ATM TEMPERATURE) when button is pressed.
+
+Shows true airspeed in Knots.
+
+
+
+V1.11
+
+- replaced jpg by png
+
+
+
+V1.1
+
+- The bezel can now be hidden by clicking in the top left corner of the instrument
+
+- Display off when battery off</description><compatibleFSX>true</compatibleFSX><compatibleP3D>true</compatibleP3D><compatibleXPL>false</compatibleXPL><compatibleFS2>false</compatibleFS2><compatibleFS2020>true</compatibleFS2020><version>118</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>330</prefWidth><prefHeight>140</prefHeight><source>PERSONAL</source><platforms><platform>WINDOWS</platform><platform>MAC</platform><platform>LINUX</platform><platform>RASPBERRY_PI</platform><platform>ANDROID</platform><platform>IPAD</platform><platform>ESP32</platform></platforms><tiers><tier>HOME_USE_STANDARD</tier></tiers></pluginstrument>

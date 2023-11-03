@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><pluginstrument><aircraft>MyLearjet 45</aircraft><type>Aspen EFD1000 GPS</type><uuid>aec116d5-b7af-4d6b-15e2-f74d1ef26d29</uuid><author>Athanasios Politis</author><description>This is based on the Aspen EFD1000. 
+It has a basic map and also has COM1/NAV1/DME/XPDR display built in.
+
+
+v1.01 changes:
+- Couple of visual changes
+- Latitude &amp; Longitude Coordinates Display
+- Map zoom buttons &amp; Zoom Function
+
+Any comments or suggetions are welcome.</description><compatibleFSX>true</compatibleFSX><compatibleP3D>false</compatibleP3D><compatibleXPL>false</compatibleXPL><compatibleFS2>false</compatibleFS2><compatibleFS2020>false</compatibleFS2020><version>110</version><configVersion>1</configVersion><pluginInterfaceVersion>100</pluginInterfaceVersion><prefWidth>800</prefWidth><prefHeight>1080</prefHeight><source>PERSONAL</source><platforms><platform>WINDOWS</platform><platform>MAC</platform><platform>LINUX</platform><platform>RASPBERRY_PI</platform><platform>ANDROID</platform><platform>IPAD</platform><platform>ESP32</platform></platforms><tiers><tier>HOME_USE_STANDARD</tier></tiers></pluginstrument>
