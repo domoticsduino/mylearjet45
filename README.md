@@ -1,6 +1,6 @@
 # mylearjet45
 
-Traking MyLearjet 45 Home Cockpit Simulator progress
+Tracking MyLearjet 45 Home Cockpit Simulator progress
 
 See also
 
